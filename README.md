@@ -29,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
   
-
-
+    
+    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1avn)](https://solved.ac/1avn/)
