@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 
-### 주승우입니다 ^^
+### 주승우입니다 :)
 
 <p></p>
   
