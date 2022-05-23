@@ -30,10 +30,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Mongoose-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <p></p>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 <p></p>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVA Swing-F05138?style=flat-square&logo=JAVA&logoColor=white" />
 <p></p>
 <p></p>
   
