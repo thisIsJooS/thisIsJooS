@@ -9,14 +9,24 @@
 thisIsJooS/thisIsJooS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
+<div>
 
-### This is JooS
+### Hello! This is Seung-woo, Joo 😌
+<hr>
 
-<p></p>
+😎 About Me
+- UNIST (Ulsan National Institute of Science & Technology) `2017.03 - 2018.02`
+- Soongsil Univ. Computer Science and Engineering `2019.03 - `
+- 데이터사이언스 연합동아리 코알라UNIV 3rd Member `2019.07 - 2019.12`
+- Military Service `2020.10 - 2022.04`
+- LIKE LION SSU 10th Back-End Member `2022.03 - 2022.12`
+- Soongsil Univ. Tennis Club(SSTC) President `2022.07 - 2022.12`
+- LIKE LION SSU 11th Vice President `2023.01 - 2023.12`
+  
+<hr>
   
 :muscle: Skills
-  
+<br>
 <p></p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -29,12 +39,11 @@ You can click the Preview link to take a look at your changes.
 <p></p>
 <p></p>
   
-:seedling: Studying
+<hr>
 
 
-<p></p>
-<p></p>
-
+:seedling: BOJ
+<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1avn)](https://solved.ac/1avn/)
 
  </div>
