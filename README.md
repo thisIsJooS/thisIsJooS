@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 😎 About Me
 - UNIST (Ulsan National Institute of Science & Technology) `2017.03 - 2018.02`
 - Soongsil Univ. Computer Science and Engineering `2019.03 - `
-- 데이터사이언스 연합동아리 코알라UNIV 3rd Member `2019.07 - 2019.12`
+- 데이터사이언스 연합동아리 COALAUNIV 3rd Member `2019.07 - 2019.12`
 - Military Service `2020.10 - 2022.04`
 - LIKE LION SSU 10th Back-End Member `2022.03 - 2022.12`
 - Soongsil Univ. Tennis Club(SSTC) President `2022.07 - 2022.12`
