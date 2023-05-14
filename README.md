@@ -33,11 +33,14 @@
   <p></p>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
   
   <p></p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nunjucks-1C4913?style=flat-square&logo=nunjucks&logoColor=white"/>
   
   <p></p>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
