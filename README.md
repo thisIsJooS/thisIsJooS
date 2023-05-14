@@ -1,8 +1,9 @@
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=thisIsJooS&fontSize=70">
-
-  ### This is Seung-woo, Joo 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seung%2Dwoo%20Joo%27%s%20Github&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20visiting!&descAlignY=54&descAlign=70">
+  
+  ### This is Seung-woo, Joo.     
+  #### I am currently studying backend development.
   <hr>
 
   😎 About Me
