@@ -8,7 +8,7 @@
   😎 About Me
   - UNIST (Ulsan National Institute of Science & Technology) `2017.03 - 2018.02`
   - Soongsil Univ. Computer Science and Engineering `2019.03 - `
-  - COALAUNIV 3rd Member `2019.07 - 2019.12`
+  - COALAUNIV 3rd Member `2020.03 - 2020.08`
   - Military Service `2020.10 - 2022.04`
   - LIKE LION SSU 10th Back-End Member `2022.03 - 2022.12`
   - LIKE LION SSU 11th Vice President `2023.01 - 2023.12`
