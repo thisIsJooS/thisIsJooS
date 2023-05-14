@@ -29,6 +29,11 @@
 
   :muscle: Skills
   <br>
+  
+  <p></p>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
+  
   <p></p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
@@ -38,10 +43,6 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=Qt&logoColor=white" />
-  
-  <p></p>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" /> 
   
   <p></p>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" /> 
