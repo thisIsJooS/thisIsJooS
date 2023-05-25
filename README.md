@@ -23,7 +23,7 @@
   |<a href="https://github.com/Gabozago-SSU">네인생컷</a>|2022.07 ~ 2022.08|Completed|포토스팟 추천 서비스|
   |<a href="https://github.com/ITerview-SSU">ITerview</a>|2022.09 ~ 2022.12|Completed|IT 직종 모의 면접 서비스|
   |<a href="https://github.com/MZ-OFFISSU">termterm:텀텀</a>|2022.12 ~ |In Progress|IT 용어 학습 서비스|
-  |<a href="https://github.com/BLACKPINK-SLJY">ITerview</a>|2023.04 ~ |In Progress|**Remaking**|
+  |<a href="https://github.com/BLACKPINK-SLJY">ITerview ver2</a>|2023.04 ~ |In Progress|**Remaking**(version 2)|
   |<a href="https://github.com/Ki-We">KiWes</a>|2023.05 ~|In Progress|유학생 교류 매칭 서비스|
   |||||
 
