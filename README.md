@@ -18,13 +18,13 @@
   <hr>
 
   💻 Projects
-  |서비스명|개발 기간|상태|설명|
-  |-----|----|----|--|
-  |<a href="https://github.com/Gabozago-SSU">네인생컷</a>|2022.07 ~ 2022.08|Completed|포토스팟 추천 서비스|
-  |<a href="https://github.com/ITerview-SSU">ITerview</a>|2022.09 ~ 2022.12|Completed|개발자를 위한 모의 면접 서비스|
-  |<a href="https://github.com/MZ-OFFISSU">termterm:텀텀</a>|2022.12 ~ |In Progress|IT 용어 학습 서비스|
-  |<a href="https://github.com/BLACKPINK-SLJY">ITerview ver2</a>|2023.04 ~ |In Progress|**Remaking**(version 2)|
-  |||||
+  |서비스명|개발 기간|상태|설명|비고|
+  |-----|----|----|--|-----|
+  |<a href="https://github.com/Gabozago-SSU">네인생컷</a>|2022.07 ~ 2022.08|Completed|포토스팟 추천 서비스|2022 멋쟁이사자처럼 중앙 해커톤|
+  |<a href="https://github.com/ITerview-SSU">ITerview</a>|2022.09 ~ 2022.12|Completed|개발자를 위한 모의 면접 서비스|2022 멋쟁이사자처럼 숭실대 장기프로젝트 최우수상|
+  |<a href="https://github.com/MZ-OFFISSU">termterm:텀텀</a>|2022.12 ~ |In Progress|IT 용어 학습 서비스|숭실대학교 창업지원단 Pre-스타트업팀 선정|
+  |<a href="https://github.com/BLACKPINK-SLJY">ITerview ver2</a>|2023.04 ~ |In Progress|**Remaking**(version 2)|2023 숭실대학교 컴퓨터학부 소프트웨어 공모전|
+  ||||||
 
   <hr>
 
