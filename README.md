@@ -45,7 +45,6 @@
   
   <p></p>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=Qt&logoColor=white" />
   
   <p></p>
