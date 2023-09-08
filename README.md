@@ -9,7 +9,6 @@
   😎 About Me
   - UNIST (Ulsan National Institute of Science & Technology) `2017.03 - 2018.02`
   - Soongsil Univ. Computer Science and Engineering `2019.03 - `
-  - COALAUNIV 3rd Member `2020.03 - 2020.08`
   - Military Service `2020.10 - 2022.04`
   - LIKE LION SSU 10th Back-End Member `2022.03 - 2022.12`
   - LIKE LION SSU 11th Vice President `2023.01 - 2023.12`
@@ -20,10 +19,8 @@
   💻 Projects
   |서비스명|개발 기간|상태|설명|비고|
   |-----|----|----|--|-----|
-  |<a href="https://github.com/Gabozago-SSU">네인생컷</a>|2022.07 ~ 2022.08|Completed|포토스팟 추천 서비스|2022 멋쟁이사자처럼 중앙 해커톤|
-  |<a href="https://github.com/ITerview-SSU">ITerview</a>|2022.09 ~ 2022.12|Completed|개발자를 위한 모의 면접 서비스|2022 멋쟁이사자처럼 숭실대 장기프로젝트 최우수상|
   |<a href="https://github.com/MZ-OFFISSU">termterm:텀텀</a>|2022.12 ~ |In Progress|IT 용어 학습 서비스|숭실대학교 창업지원단 선정 Pre-스타트업팀|
-  |<a href="https://github.com/BLACKPINK-SLJY">ITerview ver2</a>|2023.04 ~ |In Progress|**Remaking**(version 2)|2023 숭실대학교 컴퓨터학부 소프트웨어 공모전|
+  |<a href="https://github.com/BLACKPINK-SLJY">ITerview</a>|2023.04 ~ |In Progress|(version 2)|2023 숭실대학교 컴퓨터학부 소프트웨어 공모전 은상|
   ||||||
 
   <hr>
