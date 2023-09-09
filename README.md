@@ -65,6 +65,7 @@
   📖 Studying
   <br>
   <p></p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat-square&logo=AmazonECS&logoColor=white" />
   <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
