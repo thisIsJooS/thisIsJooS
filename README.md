@@ -21,7 +21,7 @@
   |서비스명|개발 기간|상태|설명|비고|
   |-----|----|----|--|-----|
   |<a href="https://github.com/MZ-OFFISSU">termterm:텀텀</a>|2022.12 ~ |In Progress|IT 용어 학습 서비스|숭실대학교 창업지원단 선정 Pre-스타트업팀|
-  |<a href="https://github.com/BLACKPINK-SLJY">ITerview</a>|2023.04 ~ 2023.08|Completed|(version 2)|2023 숭실대학교 컴퓨터학부 소프트웨어 공모전 은상|
+  |<a href="https://github.com/BLACKPINK-SLJY">ITerview</a>|2023.04 ~ 2023.08|Completed|IT 직종 취준생을 위한 모의면접 서비스|2023 숭실대학교 컴퓨터학부 소프트웨어 공모전 은상|
   ||||||
 
   <hr>
