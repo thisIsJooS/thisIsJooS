@@ -12,8 +12,7 @@
   - Military Service `2020.10 - 2022.04`
   - LIKE LION SSU 10th Back-End Member `2022.03 - 2022.12`
   - LIKE LION SSU 11th Vice President `2023.01 - 2023.12`
-  - AWS Students Club 1st Member `2023.05 - `
-  - Google Development Students Club SSU 3rd Server/Cloud Part Lead `2023.10 - `
+  - Google Development Students Club SSU (GDSC SSU) `2023.10 - `
 
   <hr>
 
