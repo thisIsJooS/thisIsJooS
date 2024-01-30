@@ -10,10 +10,11 @@
   - UNIST (Ulsan National Institute of Science & Technology) `2017.03 - 2018.02`
   - Soongsil Univ. Computer Science and Engineering `2019.03 - `
   - Military Service `2020.10 - 2022.04`
-  - LIKE LION SSU 10th Back-End Member `2022.03 - 2022.12`
+  - LIKE LION SSU 10th Member `2022.03 - 2022.12`
   - LIKE LION SSU 11th Vice President `2023.01 - 2023.12`
   - '<a href="https://apps.apple.com/kr/app/termterm/id6467411513">termterm:텀텀</a>' Back-End Developer `2022.12 - `
-  - Google Development Students Club SSU (GDSC SSU) `2023.10 - `
+  - AWS Cloud Club in South Korea 1st (ACC) `2023.05 - `
+  - Google Development Students Club SSU 3rd (GDSC SSU) `2023.10 - `
 
   <hr>
 
