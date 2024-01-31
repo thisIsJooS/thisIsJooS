@@ -67,7 +67,6 @@
 
   :seedling: BOJ
   <br><br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1avn)](https://solved.ac/1avn/)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ive)](https://solved.ac/ive/)
 
   <hr>
