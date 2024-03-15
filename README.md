@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white" />
   <img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWSLambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat-square&logo=AmazonECS&logoColor=white" />
   <p></p>
   
   <hr>
@@ -57,9 +59,6 @@
   <br>
   <p></p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWSLambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat-square&logo=AmazonECS&logoColor=white" />
-  <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white" />
 
   
   <hr>
