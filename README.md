@@ -39,6 +39,12 @@
   <p></p>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=Qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+
+  <p></p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
+  
   
   <p></p>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" /> 
@@ -47,8 +53,6 @@
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white" /> 
   <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white" />
-  <img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWSLambda&logoColor=white" />
   <img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat-square&logo=AmazonECS&logoColor=white" />
   <p></p>
