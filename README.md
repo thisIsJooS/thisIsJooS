@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white" />
   <img src="https://img.shields.io/badge/apachejmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Querydsl-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
   
   <p></p>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -55,6 +57,7 @@
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWSLambda&logoColor=white" />
   <img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat-square&logo=AmazonECS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon Elasticache-C925D1?style=flat-square&logo=AmazonElasticache&logoColor=white" />
   <p></p>
   
   <hr>
