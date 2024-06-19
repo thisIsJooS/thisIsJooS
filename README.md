@@ -33,7 +33,7 @@
 
 
 ### 💼 Skills
-
+<div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white" />
@@ -61,11 +61,14 @@
 <img src="https://img.shields.io/badge/Amazon Elasticache-C925D1?style=flat-square&logo=AmazonElasticache&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon SQS-FF4F8B?style=flat-square&logo=AmazonSQS&logoColor=white" />
 <br>
+</div>
 
 ### 📖 Studying
+<div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
+</div>
 
 ### 🌱 BOJ
 
