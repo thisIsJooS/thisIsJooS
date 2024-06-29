@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seung%2Dwoo%20Joo%27%s%20Github&fontSize=60&animation=fadeIn&fontAlignY=38&&descAlignY=54&descAlign=70">    
-
 # 주승우  / Seung-woo, Joo
 
 ---
@@ -78,7 +76,6 @@
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
 </div>
 
 ---
