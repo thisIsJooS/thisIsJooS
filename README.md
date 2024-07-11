@@ -8,7 +8,6 @@
 - Military Service `2020.10 - 2022.04`
 - LIKELION SSU 10th Member (멋쟁이사자처럼) `2022.03 - 2022.12`
 - LIKELION SSU 11th Vice President (멋쟁이사자처럼) `2023.01 - 2023.12`
-- [termterm:텀텀](https://www.termterm.site) Back-End Developer `2022.12 - 2024.06.30`
 - AWS Cloud Club in South Korea 1st (ACC) `2023.05 - `
 - Google Development Students Club SSU 3rd (GDSC SSU) `2023.10 - `
 
