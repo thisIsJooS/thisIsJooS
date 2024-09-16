@@ -33,7 +33,7 @@
 | [ITerview](https://github.com/BLACKPINK-SLJY)                                      | 2023.04 ~ 2023.08  | IT 직종 취준생을 위한 모의면접 서비스          | 2023 숭실대학교 소프트웨어공모전 은상                                  | 백엔드 서버 개발 (`Spring Boot`), 인프라 구축 (`AWS`)                                                                    |
 | [서울특별시 청년안심주택 모집공고 게시 알리미](https://github.com/thisIsJooS/youth-house-recruitment-notifier)                                                       | 2024.03           | 서울특별시 청년안심주택 알림 AWS 아키텍처| `AWS CloudFormation` 템플릿 배포 중                                              | `Amazon EventBridge`,<br/>`Amazon S3`, <br/>`AWS Lambda`, <br/>`Amazon Simple Notification Service (Amazon SNS)` |
 | [놀이터맵](https://github.com/Noriter-Map)                                                  | 2024.06 ~ 2024.07         | 광주광역시 놀이시설 위치 및 상세 정보 제공 서비스    | 제 10회 광주광역시 공공데이터 활용 창업경진대회 예비 후보                              | 프론트엔드 개발 (`React`, `TypeScript`),<br/> 백엔드 개발 (`Spring Boot`),<br/> 인프라 구축 (`AWS`),<br/> 데이터 수집 및 정제 (`Database`)                            |
-| [macro-detector](https://github.com/thisIsJooS/macro-detector)                     | 2024.03 ~ 2024.06 | 매크로 프로그램을 이용한 부정 예약 자동 탐지 라이브러리 | npm 배포 완료 - [링크](https://www.npmjs.com/package/macro-detector), <br/> 2024 숭실대학교 소프트웨어공모전 학장상 | 설계, 개발 (`Javascript`),<br/> `npm`                                                                                 |
+| [macro-detector](https://github.com/thisIsJooS/macro-detector)                     | 2024.03 ~ 2024.07 | 매크로 프로그램을 이용한 부정 예약 자동 탐지 라이브러리 | npm 배포 완료 - [링크](https://www.npmjs.com/package/macro-detector), <br/> 2024 숭실대학교 소프트웨어공모전 학장상 | 설계, 개발 (`Javascript`),<br/> `npm`                                                                                 |
 
 ---
 
