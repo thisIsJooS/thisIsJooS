@@ -14,7 +14,7 @@
 
 ---
 
-### 🪪 Certifications
+### 🪪 Certificate
 - 정보처리기사 `2024.06`
 - SQL 개발자 (SQLD) `2024.06`
 - AWS Certified Solutions Architect - Associate `2024.06`
