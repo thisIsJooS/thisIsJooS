@@ -16,7 +16,7 @@
 
 ### 🪪 Certificate
 - 정보처리기사 `2024.06`
-- SQL 개발자 (SQLD) `2024.06`
+- SQLD `2024.06`
 - AWS Certified Solutions Architect - Associate `2024.06`
 - AWS Certified Developer - Associate `2024.06`
 - GPA : 4.16 / 4.5 `2019.03 ~ 2024.06`
