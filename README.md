@@ -7,8 +7,8 @@
 - UNIST (Ulsan National Institute of Science & Technology) `2017.03 - 2018.02`
 - Soongsil Univ. Computer Science and Engineering `2019.03 - 2025.02(예정)`
 - Military Service `2020.10 - 2022.04`
-- LIKELION(멋쟁이사자처럼) SSU 10th Member (멋쟁이사자처럼) `2022.03 - 2022.12`
-- LIKELION(멋쟁이사자처럼) SSU 11th Vice President (멋쟁이사자처럼) `2023.01 - 2023.12`
+- LIKELION SSU 10th Member (멋쟁이사자처럼) `2022.03 - 2022.12`
+- LIKELION SSU 11th Vice President (멋쟁이사자처럼) `2023.01 - 2023.12`
 - AWS Cloud Clubs in South Korea 1st (ACC) `2023.05 - `
 - Google Development Students Club SSU 3rd (GDSC SSU) `2023.10 - 2024.09`
 
